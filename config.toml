@@ -1,0 +1,15 @@
+baseURL = "https://www.sw-lackreparaturservice.de/"
+languageCode = "de"
+DefaultContentLanguage = "de"
+title = "SW-Lackreparaturservice"
+theme = "agency"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[[params.social]]
+	title = "email"
+	icon = "envelope-o"
+	url = "mailto:info@sw-lackreparaturservice.de"
+[[params.social]]
+	title = "instagram"
+	icon = "instagram"
+	url = "http://instagram.com/swlackreparaturservice"
