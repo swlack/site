@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SW-Lackreparaturservice</title>
+    <link>https://www.sw-lackreparaturservice.de/</link>
+    <description>Recent content on SW-Lackreparaturservice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 20 Aug 2018 14:45:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.sw-lackreparaturservice.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ueberuns</title>
+      <link>https://www.sw-lackreparaturservice.de/ueberuns/</link>
+      <pubDate>Mon, 20 Aug 2018 14:45:12 +0200</pubDate>
+      
+      <guid>https://www.sw-lackreparaturservice.de/ueberuns/</guid>
+      <description>Über SW Lackreparaturservice Ich hab mich am 01.01.1900 selbstständig gemacht.</description>
+    </item>
+    
+  </channel>
+</rss>
