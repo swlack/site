@@ -5,17 +5,17 @@ header.masthead {
   background-image: url('../images/bg_large.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: left top;
+  background-position: center top;
   background-size: cover;
   background-color: #808080;
-  min-height: 350px;
+  min-height: 200px;
   .intro-text {
     text-shadow: 4px 4px 3px rgba(0,0,0,0.6);
     padding-top: 50px;
     padding-bottom: 50px;
-    font-size: 2.5rem;
+    font-size: 5vw;
     h1 {
-      font-size: 2.5rem;
+      font-size: 5vw;
       font-weight: 700;
       line-height: 50px;
       margin-bottom: 25px;
@@ -27,6 +27,7 @@ header.masthead {
   }
 }
 @media(min-width:768px) {
+  background-position: left top;
   background-image: url('../images/bg_small.jpg');
   header.masthead {
     .intro-text {
@@ -40,15 +41,6 @@ header.masthead {
         margin-bottom: 25px;
         margin-top: 25px;
         @include heading-font;
-      }
-    }
-  }
-}
-@media(min-width:1400px) {
-  header.masthead {
-    .intro-text {
-      h1 {
-        font-size: 3vw;
       }
     }
   }
