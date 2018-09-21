@@ -128,7 +128,8 @@ header.masthead {
   background-attachment: scroll;
   background-position: left top;
   background-size: cover;
-  min-height: 450px; }
+  background-color: #808080;
+  min-height: 350px; }
   header.masthead .intro-text {
     text-shadow: 4px 4px 3px rgba(0, 0, 0, 0.6);
     padding-top: 50px;
@@ -145,6 +146,7 @@ header.masthead {
       letter-spacing: .2rem; }
 
 @media (min-width: 768px) {
+  background-image: url("../images/bg_small.jpg");
   header.masthead .intro-text {
     padding-top: 100px;
     padding-bottom: 100px;
