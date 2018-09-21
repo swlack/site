@@ -158,6 +158,9 @@ header.masthead {
       margin-bottom: 25px;
       margin-top: 25px;
       font-family: -apple-system, system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; } }
+@media (min-width: 1280px) {
+  header.masthead .intro-text h1 {
+    font-size: 3vw; } }
 .service-heading {
   margin: 15px 0;
   text-transform: none; }

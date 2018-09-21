@@ -44,3 +44,12 @@ header.masthead {
     }
   }
 }
+@media(min-width:1280px) {
+  header.masthead {
+    .intro-text {
+      h1 {
+        font-size: 3vw;
+      }
+    }
+  }
+}

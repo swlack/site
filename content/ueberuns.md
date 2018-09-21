@@ -1,7 +1,7 @@
 ---
 title: "Ueberuns"
 date: 2018-08-20T14:45:12+02:00
-layout: "landing-page-hugo"
+layout: "agency"
 type: "page"
 language: "de"
 ---
