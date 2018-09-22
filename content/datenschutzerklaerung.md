@@ -194,7 +194,7 @@ language: "de"
 
    Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.
 
-   Diese Datenschutzerklärung wurde initial durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als [Datenschutzbeauftragter](https://dg-datenschutz.de/datenschutz-dienstleistungen/externer-datenschutzbeauftragter/) tätig ist, in Kooperation mit den Datenschutz Anwälten der Kanzlei WILDE BEUGER SOLMECKE | Rechtsanwälte erstellt und folglich erweitert.
+   Diese Datenschutzerklärung wurde initial durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als [Datenschutzbeauftragter](https://dg-datenschutz.de/datenschutz-dienstleistungen/externer-datenschutzbeauftragter/) tätig ist, in Kooperation mit den [Datenschutz Anwälten der Kanzlei WILDE BEUGER SOLMECKE | Rechtsanwälte](https://www.wbs-law.de/it-recht/datenschutzrecht/) erstellt und folglich erweitert.
 
 ##  11. Externe Dienste
 
