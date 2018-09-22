@@ -1,7 +1,7 @@
 baseURL = "https://www.sw-lackreparaturservice.de"
 languageCode = "de"
 DefaultContentLanguage = "de"
-title = "SW-Lackreparaturservice"
+title = "SW Lackreparaturservice"
 theme = "agency"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
