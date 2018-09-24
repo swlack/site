@@ -20,3 +20,5 @@ Germendorfer Allee 20
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 138408302
 
 **Haftungshinweis**: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
+[Geschichte](/ueberuns)

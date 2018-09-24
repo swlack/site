@@ -6,7 +6,7 @@ type: "page"
 language: "de"
 ---
 
-<h1 class="text-center"><a href="https://www.sw-lackreparaturservice.de" title="Startseite">Zur Hauptseite</a></h1>
+<h1 class="text-center"><a href="/" title="Startseite">Zur Hauptseite</a></h1>
 
 
 ## Über SW Lackreparaturservice
