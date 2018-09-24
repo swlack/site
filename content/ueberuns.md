@@ -6,8 +6,9 @@ type: "page"
 language: "de"
 ---
 
+<h1 class="text-center"><a href="https://www.sw-lackreparaturservice.de" title="Startseite">Zur Hauptseite</a></h1>
 
-# Über SW Lackreparaturservice
 
-Ich hab mich am 01.01.1900 selbstständig gemacht.
+## Über SW Lackreparaturservice
 
+Stefan Erstling, damals noch Stefan Wagner, hat sich vor einigen Jahren selbstständig gemacht.
