@@ -1,0 +1,9 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = https://www.sw-lackreparaturservice.de
+    # COMMENT: Multi-key header rules are expressed with multi-line strings
+    # Link =
+    # <https://www.sw-lackreparaturservice.de/vendor/fontawesome-free/css/all.min.css>; rel=preload; as=style, \
+    # <https://www.sw-lackreparaturservice.de/vendor/simple-line-icons/css/simple-line-icons.css>; rel=preload; as=style, \
+    # <https://www.sw-lackreparaturservice.de/css/agency.min.css>; rel=preload; as=style
