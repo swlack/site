@@ -14,7 +14,7 @@ Germendorfer Allee 20
 16515 Oranienburg  
 
 **Telefon**: +49 03301 / 577201  
-**E-Mail**: info@sw-lackreparaturservice.de
+**E-Mail**: info@sw-lackreparaturservice.de  
 **Internet**: www.sw-lackreparaturservice.de  
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 138408302
