@@ -17,7 +17,7 @@ Germendorfer Allee 20
 **E-Mail**: info@sw-lackreparaturservice.de  
 **Internet**: www.sw-lackreparaturservice.de  
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE 138408302
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: 05321703269
 
 **Haftungshinweis**: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
