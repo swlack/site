@@ -3,13 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.sw-lackreparaturservice.de/datenschutzerklaerung/</loc>
+    <lastmod>2018-09-21T14:45:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sw-lackreparaturservice.de/impressum/</loc>
+    <lastmod>2018-09-21T14:45:12+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.sw-lackreparaturservice.de/ueberuns/</loc>
     <lastmod>2018-08-20T14:45:12+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.sw-lackreparaturservice.de/</loc>
-    <lastmod>2018-08-20T14:45:12+02:00</lastmod>
+    <lastmod>2018-09-21T14:45:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SW-Lackreparaturservice</title>
+    <title>SW Lackreparaturservice</title>
     <link>https://www.sw-lackreparaturservice.de/</link>
-    <description>Recent content on SW-Lackreparaturservice</description>
+    <description>Recent content on SW Lackreparaturservice</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 20 Aug 2018 14:45:12 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 14:45:12 +0200</lastBuildDate>
     
 	<atom:link href="https://www.sw-lackreparaturservice.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://www.sw-lackreparaturservice.de/datenschutzerklaerung/</link>
+      <pubDate>Fri, 21 Sep 2018 14:45:12 +0200</pubDate>
+      
+      <guid>https://www.sw-lackreparaturservice.de/datenschutzerklaerung/</guid>
+      <description>Datenschutzerklärung Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der Test. Eine Nutzung der Internetseiten der Test ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://www.sw-lackreparaturservice.de/impressum/</link>
+      <pubDate>Fri, 21 Sep 2018 14:45:12 +0200</pubDate>
+      
+      <guid>https://www.sw-lackreparaturservice.de/impressum/</guid>
+      <description>Impressum SW Lackreparaturservice
+Stefan Erstling
+Germendorfer Allee 20
+16515 Oranienburg
+Telefon: +49 03301 / 577201
+E-Mail: info@sw-lackreparaturservice.de
+Internet: www.sw-lackreparaturservice.de
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: 05321703269
+Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Geschichte</description>
+    </item>
     
     <item>
       <title>Ueberuns</title>
@@ -17,7 +44,7 @@
       <pubDate>Mon, 20 Aug 2018 14:45:12 +0200</pubDate>
       
       <guid>https://www.sw-lackreparaturservice.de/ueberuns/</guid>
-      <description>Über SW Lackreparaturservice Ich hab mich am 01.01.1900 selbstständig gemacht.</description>
+      <description>Zur Hauptseite Über SW Lackreparaturservice Stefan Erstling, damals noch Stefan Wagner, hat sich vor einigen Jahren selbstständig gemacht.</description>
     </item>
     
   </channel>
