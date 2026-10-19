@@ -73,8 +73,8 @@ language: "de"
    16515 Oranienburg  
 
    Telefon: +49 03301 / 577201  
-   E-Mail: info@sw-lackreparaturservice.de  
-   Internet: www.sw-lackreparaturservice.de  
+   E-Mail: info@sw-lack.de  
+   Internet: www.sw-lack.de  
 
 ## 3. Erfassung von allgemeinen Daten und Informationen
 
